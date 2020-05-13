@@ -156,6 +156,9 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.dll
+*.onnx
+*.csv
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -172,3 +175,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/coordTestComponents/
+Assets/formatted-pose-data/
+Assets/squat-capture-components/
